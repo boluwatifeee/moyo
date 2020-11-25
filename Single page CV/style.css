@@ -1,0 +1,59 @@
+body{
+    background-color: lightcoral;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: lighter;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+}  
+img{
+    border-radius: 50px;
+    height: 400px;
+    align-content: center;
+    margin-left: 40%;
+    margin-bottom: 5%;
+}
+.details{
+    background-color: rgba(91, 59, 94, 0.801);
+    padding-left: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: medium;
+    font-weight: lighter;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: chocolate;
+}
+.education{
+    background-color: rgb(230, 118, 155);
+    padding-left: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: firebrick;
+}
+.education li{
+    list-style: none;
+}
+.experience{
+    background-color: rgba(91, 59, 94, 0.801);
+    padding-left: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: medium;
+    font-weight: lighter; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: coral;
+}
+.skills{
+    background-color: rgb(230, 118, 155);
+    padding-left: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: medium;
+    font-weight: lighter;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: brown;
+}
